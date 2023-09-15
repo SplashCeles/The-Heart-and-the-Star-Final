@@ -1,4 +1,4 @@
-const images = ['images/Their_Own_Kind_of_Love_p1.png','images/Their_Own_Kind_of_Love_p2.png',];
+const images = ['images/The Heart and the Star- Final p1.png','images/The Heart and the Star- Final p2.png','images/The Heart and the Star- Final p3.png','images/The Heart and the Star- Final p4.png','images/The Heart and the Star- Final p5.png','images/The Heart and the Star- Final p6.png','images/The Heart and the Star- Final p7.png','images/The Heart and the Star- Final p8.png','images/The Heart and the Star- Final p9.png','images/The Heart and the Star- Final p10.png','images/The Heart and the Star- Final p11.png','images/The Heart and the Star- Final p12.png'];
 let index = 0;
 
 window.addEventListener('load', () => {
